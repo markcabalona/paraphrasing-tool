@@ -55256,7 +55256,7 @@ s=A.al1(new A.ck(o,B.aD),new A.aS(q,A.l(q).k("aS<1>")))
 o=q.h(0,s)
 o.toString
 A.py(new A.QZ(new A.R_("Poppins",s),o))
-return new A.rF(B.D3,"Flutter Demo",A.abf(r,B.bT,p.VC("Poppins_"+s.i(0),A.a(["Poppins"],t.s)).d,r),r)}}
+return new A.rF(B.D3,"Paraphrasing Tool",A.abf(r,B.bT,p.VC("Poppins_"+s.i(0),A.a(["Poppins"],t.s)).d,r),r)}}
 A.Bc.prototype={
 N(a){var s=null,r=t.D
 return new A.tI(new A.Di(A.eA(B.aq,A.MW(A.a([A.Vq(A.a([B.zy,B.FN,A.uj("PARAPHRASING TOOL",s,s,s,A.aO(a).RG.r,s,s)],r),B.f2),B.FO,B.E5],r),B.em,B.qi,B.bR),s,s,s,s,s,B.yJ,s),s),B.E4,s)}}
